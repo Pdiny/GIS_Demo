@@ -1,0 +1,1 @@
+var json_Solar_15 = {"type":"FeatureCollection","name":"Solar_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Downey Solar","Status":"Active","Preservation Officer":"Dan Demo","Link":"https://www.idahoocta.org/"},"geometry":{"type":"Point","coordinates":[-112.1829877,42.49506912]}}]}
